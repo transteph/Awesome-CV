@@ -20,6 +20,15 @@ Feel free to donate to @posquit0 [here](https://github.com/posquit0/Awesome-CV#d
 
 ## Preview
 
+#### CV
+
+You can see [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf)
+
+| Page. 1 | Page. 2 | Page. 3 |
+|:---:|:---:|:---:|
+| [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-0.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf)  | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-1.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf) | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-2.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf) |
+
+
 #### Résumé
 
 You can see [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/resume.pdf)
@@ -55,7 +64,7 @@ This should result in the creation of ``{your-cv}.pdf``
 
 
 ## Credit
-[**@Posquit0](https://github.com/posquit0/) who developed the original Awesome CV from which this forked from.
+[**@Posquit0**](https://github.com/posquit0/) who developed the original Awesome CV from which this is forked from.
 
 [**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
