@@ -20,26 +20,20 @@ Feel free to donate to @posquit0 [here](https://github.com/posquit0/Awesome-CV#d
 
 ## Preview
 
-#### CV
-
-You can see [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf)
+#### CV - [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf)
 
 | Page. 1 | Page. 2 | Page. 3 |
 |:---:|:---:|:---:|
 | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-0.PNG)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf)  | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-1.PNG)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf) | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-2.PNG)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf) |
 
 
-#### Résumé
-
-You can see [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/resume.pdf)
+#### Résumé -  [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
 | [![Résumé](https://github.com/transteph/Awesome-CV/blob/master/examples/resume-0.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/resume.pdf)  | [![Résumé](https://github.com/transteph/Awesome-CV/blob/master/examples/resume-1.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/resume.pdf) |
 
-#### Cover Letter
-
-You can see [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/coverletter.pdf)
+#### Cover Letter -  [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/coverletter.pdf)
 
 
 [![Cover Letter](https://github.com/transteph/Awesome-CV/blob/master/examples/coverletter-0.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/coverletter.pdf)  
