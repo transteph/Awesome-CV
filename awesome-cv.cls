@@ -677,15 +677,16 @@
 % Define a title of the cover letter
 % Usage: \makelettertitle
 \newcommand*{\makelettertitle}{%
-  \vspace{3mm}
+  \vspace{8mm}
   \setlength\tabcolsep{0pt}
-  \setlength{\extrarowheight}{0pt}
+  \setlength{\extrarowheight}{6pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
     \recipienttitlestyle{\@recipientname} & \letterdatestyle{\@letterdate}
   \end{tabular*}
   \begin{singlespace}
     \recipientaddressstyle{\@recipientaddress} 
   \end{singlespace}
+  \vspace{5mm}
   \ifthenelse{\isundefined{\@lettertitle}}
     {~}
     {\lettertitlestyle{\@lettertitle}}\\
