@@ -26,7 +26,7 @@ You can see [PDF](https://github.com/transteph/Awesome-CV/blob/master/examples/c
 
 | Page. 1 | Page. 2 | Page. 3 |
 |:---:|:---:|:---:|
-| [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-0.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf)  | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-1.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf) | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-2.png)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf) |
+| [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-0.PNG)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf)  | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-1.PNG)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf) | [![CV](https://github.com/transteph/Awesome-CV/blob/master/examples/cv-2.PNG)](https://github.com/transteph/Awesome-CV/blob/master/examples/cv.pdf) |
 
 
 #### Résumé
